@@ -51,7 +51,7 @@ header h2, h3 {
 button {
   background-color: rgb(205, 197, 165);
   border: 2px blue solid;
-  border-radius: 20%;
+  border-radius: 5px;
   padding-top: 2px;
 }
 
